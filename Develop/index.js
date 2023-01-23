@@ -7,7 +7,7 @@ const fs = require ('fs');
 const questions = [
     { // Title Question
         type: 'input',
-        message: 'Title of your project?',
+        message: 'Title of your project.',
         name: 'title'
     },
     {
@@ -23,7 +23,7 @@ const questions = [
             'Apache License 2.0',
             'None'
         ],
-        message: 'Which of the following licenses you would like to use.',
+        message: 'Which of the following licenses you would like to use?',
         name: 'installation'
     },
     {

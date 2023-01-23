@@ -19,8 +19,8 @@ const questions = [
         type: 'list',
         choices: [
             'MIT',
-            'GNU GPLv3',
-            'Apache License 2.0',
+            'GNU',
+            'Apache',
             'None'
         ],
         message: 'Which of the following licenses you would like to use?',

@@ -1,8 +1,8 @@
 
-# readme generator
+# ReadMe Generator 
 
 ## Description
-readme generator app 
+Using nodejs to create a Readme Generator 
 
 
 ## Table of contents
@@ -20,15 +20,15 @@ readme generator app
 
 
 ## Installation
-inquirer@8.2.4
+npm i inquirer@8.2.4
 
 
 ## Usage
-answer a set of questions to generate a readme
+test
 
 
 ## Contributing
-leo
+Leo
 
 
 ## Test

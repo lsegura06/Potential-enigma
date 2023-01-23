@@ -1,8 +1,8 @@
 
-# ReadmeGenerator
+# readme generator
 
 ## Description
-An app that asks a series of questions to create a ReadMe file
+readme generator app 
 
 
 ## Table of contents
@@ -20,15 +20,15 @@ An app that asks a series of questions to create a ReadMe file
 
 
 ## Installation
-N/A
+inquirer@8.2.4
 
 
 ## Usage
-Answer a series of questions to create a ReadMe file
+answer a set of questions to generate a readme
 
 
 ## Contributing
-Leo
+leo
 
 
 ## Test

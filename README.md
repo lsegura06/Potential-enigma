@@ -1,8 +1,8 @@
 
 # ReadMe Generator
-
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Description
-Using nodejs to create a readme generator.
+Creating an app to genarate a readme file by using nodejs.
 
 
 ## Table of contents
@@ -20,7 +20,7 @@ Using nodejs to create a readme generator.
 
 
 ## Installation
-npi i inquirer@8.2.4
+Type 'npi inquirer@8.2.4' in the command line.
 
 
 ## Usage
@@ -30,7 +30,7 @@ Answer a series of questions to create a readme file.
 
 
 ## Contributing
-Leo
+Leo Segura
 
 
 ## Test

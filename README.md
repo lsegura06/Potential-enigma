@@ -1,8 +1,8 @@
 
-# ReadME Generator
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# ReadMe Generator
+
 ## Description
-Answer a series of questions and using nodejs it will generate a Readme file.
+Using nodejs to create a readme generator.
 
 
 ## Table of contents
@@ -24,7 +24,7 @@ npi i inquirer@8.2.4
 
 
 ## Usage
-Answer the prompted questions to create a readme file
+Answer a series of questions to create a readme file.
 
 
 ## Contributing
